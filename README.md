@@ -1,2 +1,2 @@
 # secuboid.github.io
-Seucboid documentation
+Secuboid documentation
